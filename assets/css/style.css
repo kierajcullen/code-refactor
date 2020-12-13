@@ -74,7 +74,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/*added a clearfix hack to fix positioning of images, they were floating outside of the main box*/
 .clear-fix::after { 
     content: " ";
     clear: both;
@@ -92,6 +92,7 @@ aside {
     background-color: #2589bd;
 }
 
+/*consolidating css classes*/
 .benefit-lead, 
 .benefit-brand, 
 .benefit-cost {
@@ -123,7 +124,7 @@ aside {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*consolidating css classes*/
 .search-engine-optimization img, 
 .online-reputation-management img, 
 .social-media-marketing img {
