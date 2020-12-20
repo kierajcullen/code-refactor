@@ -6,6 +6,6 @@ https://kierajcullen.github.io/code-refactor/
 https://github.com/kierajcullen/code-refactor/
 
 # Screenshot
-![](img/github.png)
+![](assets/)
 
 # Summary
