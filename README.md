@@ -6,6 +6,7 @@ https://kierajcullen.github.io/code-refactor/
 https://github.com/kierajcullen/code-refactor/
 
 # Screenshot
-![](assets/)
+![](assets/images/screenshot.png)
 
 # Summary
+This provided a general review of HTML, semantic tags and CSS.
